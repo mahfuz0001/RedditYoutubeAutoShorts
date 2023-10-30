@@ -101,6 +101,6 @@ Freebiell (Freebie#3263) - https://github.com/FreebieII
 
 Aman Raza (electro199#8130) - https://github.com/electro199
 
-## LICENSE
 
+## LICENSE
 [Roboto Fonts](https://fonts.google.com/specimen/Roboto/about) are licensed under [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
